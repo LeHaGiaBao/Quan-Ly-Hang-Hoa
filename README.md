@@ -1,4 +1,4 @@
-**Cho cơ sở dữ liệu sau:**
+**<h1>Cho cơ sở dữ liệu sau:</h1>**
 
 📌Nhacungcap (<u>maNCC</u>, tenNCC, trangthai, thanhpho)
 'Nhà cung cấp' cung cấp các dịch vụ vận chuyển: bao gồm mã nhà cung cấp, tên nhà cung cấp, trạng thái, thành phố.
@@ -9,7 +9,7 @@ Thông tin phụ tùng gồm: mã phụ tùng, tên phụ tùng, màu sắc, kh�
 📌Vanchuyen (<u>maNCC</u>, maPT, soluong)
 Lưu trữ thông tin nhà cung cấp dịch vụ vận chuyển những phụ tùng nào, số lượng là bao nhiêu.
 
-**Viết câu lệnh SQL:**
+**<h1>Viết câu lệnh SQL:</h1>**
 1. Hiển thị thông tin (maNCC, tenNCC, thanhpho) của tất cả nhà cung cấp.
 2. Hiển thị thông tin của tất cả các phụ tùng.
 3. Hiển thị thông tin các nhà cung cấp ở thành phố London.
