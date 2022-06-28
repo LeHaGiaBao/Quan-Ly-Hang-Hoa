@@ -1,15 +1,25 @@
-**<h1>Cho cơ sở dữ liệu sau:</h1>**
+**<h1>CƠ SỞ DỮ LIỆU</h1>**
 
-📌Nhacungcap (<u>maNCC</u>, tenNCC, trangthai, thanhpho)
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/Quan-Ly-Hang-Hoa?style=for-the-badge)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/Quan-Ly-Hang-Hoa?style=for-the-badge)
+
+</div>
+
+**<h2>Cho cơ sở dữ liệu sau:</h2>**
+
+📌Nhacungcap (<b>maNCC</b>, tenNCC, trangthai, thanhpho)
 'Nhà cung cấp' cung cấp các dịch vụ vận chuyển: bao gồm mã nhà cung cấp, tên nhà cung cấp, trạng thái, thành phố.
 
-📌Phutung (<u>maPT</u>, tenPT, mausac, khoiluong, thanhpho)
+📌Phutung (<b>maPT</b>, tenPT, mausac, khoiluong, thanhpho)
 Thông tin phụ tùng gồm: mã phụ tùng, tên phụ tùng, màu sắc, khối lượng, thành phố.
 
-📌Vanchuyen (<u>maNCC</u>, maPT, soluong)
+📌Vanchuyen (<b>maNCC</b>, maPT, soluong)
 Lưu trữ thông tin nhà cung cấp dịch vụ vận chuyển những phụ tùng nào, số lượng là bao nhiêu.
 
-**<h1>Viết câu lệnh SQL:</h1>**
+**<h2>Viết câu lệnh SQL:</h2>**
 1. Hiển thị thông tin (maNCC, tenNCC, thanhpho) của tất cả nhà cung cấp.
 2. Hiển thị thông tin của tất cả các phụ tùng.
 3. Hiển thị thông tin các nhà cung cấp ở thành phố London.
